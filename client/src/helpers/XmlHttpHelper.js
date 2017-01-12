@@ -1,3 +1,5 @@
+// This code is coutesy of Matthew Jeorrett - https://github.com/MJeorrett
+
 const XmlHttpHelper = {
 
   getWithAuthorizationToken( url, token, onloadCallback ) {
