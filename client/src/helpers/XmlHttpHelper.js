@@ -1,4 +1,4 @@
-// This code is coutesy of Matthew Jeorrett - https://github.com/MJeorrett
+// This code is courtesy of Matthew Jeorrett - https://github.com/MJeorrett
 
 const XmlHttpHelper = {
 
